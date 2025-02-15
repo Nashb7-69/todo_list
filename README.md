@@ -35,11 +35,3 @@ Taskflow is a modern and intuitive to-do list web application designed to help y
 
 ## 📬 Contributing
 We welcome contributions! Feel free to fork the repository, submit issues, or create pull requests.
-
-## 📜 License
-Taskflow is open-source under the MIT License.
-
-## 🤝 Connect With Us
-- 🌐 Website: [taskflow.app](https://taskflow.app)
-- 🐦 Twitter: [@taskflowapp](https://twitter.com/taskflowapp)
-- 📧 Email: support@taskflow.app
